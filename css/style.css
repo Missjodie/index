@@ -1,0 +1,36 @@
+/*公用*/
+body,ul,ol,dl,dd,h1,h2,h3,h4,h5,h6,p,input,select,textarea,form{margin: 0; padding: 0;font-family: "Microsoft YaHei";}
+.fl{float: left;}
+.fr{float: right;}
+.main{width: 990px; margin: 0 auto;}
+ul{list-style: none;}
+/*导航*/
+header{width:auto;height: 40px;background-color: #222; margin: 0 auto;}
+.headercon{width: 990px;height: 40px; margin: 0 auto;}
+.topnav{margin-top: 10px;height: 30px;width: 429px;}
+.topnav li{display: inline; color: #a1a1a1;font-size: 12px;margin:0 4px;}
+.service{height: 30px; width:395px;color: #3bbdf9;margin-top: 10px;}
+.service img{vertical-align: middle;font-size: 16px;}
+.service span{font: 20px arial ;margin-top: 13px;}
+.service input{margin-left: 28px;background-color: #38b89f;border-radius:5px;border: none; width: 130px;height: 23px;font-size: 12px; color: #fff;}
+.nav{height: 73px;}
+.logo{width: 363px;height: 57px;font: 24px 方正正黑简体;margin-top: 16px;}
+.logo img{vertical-align: middle;}
+.mainbav{margin-top: 25px; height: 48px; width: 568px;}
+.mainbav li{display: inline; color: #555;font-size: 15px;margin:0 8px;}
+.banner{height: 644px; width:auto;}
+.banner img{height: 591px;width: auto;}
+.content{height: 420px;}
+.content_title{height: 20px;font-size: 20px;font-weight: bold; margin-bottom: 43px;}
+.content_title1{color: #0087d1;}
+.content_title2{color: #444;margin-left: 31px;}
+/*问题*/
+.content_bor{}
+.content_bor img{border: 1px solid #e6e6e6;padding: 8px 8px ;margin-right: 5px;}
+.banner_baby{height: 659px;margin: 40px auto;background-color: #38b89f;}
+.banner_baby_fonts{}
+.banner_baby_font{width: 557px;height: 545px;}
+
+
+
+.banner_baby_img{width: 343px; height: 545px;}
